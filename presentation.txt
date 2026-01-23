@@ -8,5 +8,6 @@
 |__|\_| \___/ |__|\_| |__|  |____|\___| \___/ |_____||__| \_/\_/    |__|  |__|   
                     made by @kortisol.wtf and @ximmy1234
 ]]
+script_key = 'Insert your key in here'
 Owner = 'Your owner accounts username in here :)'
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kortisolwtf/kortisol.wtf/refs/heads/main/kortisol.wtf.lua"))()
