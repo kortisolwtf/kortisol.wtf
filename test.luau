@@ -18,7 +18,6 @@ Junkie.provider = "kortisol.wtf"
             return nil
         end
     end
-end
 
 
 if not validatedKey then
