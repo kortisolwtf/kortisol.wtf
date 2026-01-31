@@ -7,10 +7,9 @@ Junkie.provider = "kortisol.wtf"
 -- UI Implementation
 
     -- Wait for user to input key (your UI logic here)
-    local userKey = script_key
     
-    if userKey then
-        local validation = Junkie.check_key(userKey)
+    if script_key then
+        local validation = Junkie.check_key(script_key)
         if validation.valid then
             print("Woohooo it works!")
         else
